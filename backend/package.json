@@ -19,5 +19,8 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.10.1",
     "pingup": "file:.."
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6"
   }
 }
